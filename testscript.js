@@ -141,7 +141,6 @@ function SetDisplayValue(question) {
     }
 }
 
-
 function SubmitSurvey() {
     response_array[14] = "submited"
     console.log("submited yay!");
