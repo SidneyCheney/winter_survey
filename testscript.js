@@ -126,7 +126,7 @@ function Questions() {
     document.getElementById("high_text").textContent = high_text;
     document.getElementById("low_text").textContent = low_text;
     if (current_question == "question_submit") {
-        document.getElementById("question_text").innerHTML = '<h1 class="col-auto mt-5 mb-5 click_selector text_decoration" id="question_text"><a href=”mailto:20016461@hartlandschools.us">Submit Survey</a></h1>';
+        document.getElementById("question_text").innerHTML = '<h1 class="col-auto mt-5 mb-5 click_selector text_decoration" id="question_text"><a href=”mailto:sidney.cheney@gmail.com">Submit Survey</a></h1>';
     }
 }
 function SetScore() {
