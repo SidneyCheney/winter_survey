@@ -1,0 +1,52 @@
+html, body {
+    text-align: center;
+    background-color: darkgrey !important;
+}
+.big_ol_text {
+    font-size: 40px;
+}
+.subtle {
+    margin-top: 100px;
+    font-size: 20px;
+    color: grey;
+}
+#range_container {
+    justify-content: center;
+    text-align: center;
+}
+.form-label {
+    text-align: center;
+    justify-content: center;
+}
+#rangeone {
+    text-align: center;
+    justify-content: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    transform: rotate(270deg) scale(1.5, 1.5) !important;    
+}
+.bi {
+}
+.btn-success {
+    font-size: 25px !important;
+}
+a {
+    text-decoration: none !important;
+    color: white !important;
+}
+[class*="cool"] {
+    border-style: solid;
+    border-width: 3px;
+}
+.take_test {
+    min-width: 50px !imporant;
+}
+#question_text {
+    font-size: 30px !important;
+}
+.click_selector { 
+    cursor: pointer; 
+}
+.text_decoration {
+    text-decoration: underline;
+}
