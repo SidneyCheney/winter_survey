@@ -144,7 +144,6 @@ function SetDisplayValue(question) {
 
 function SubmitSurvey() {
     response_array[14] = "submited"
-    window.open(”mailto:20016461@hartlandschools.us");
     console.log("submited yay!");
     console.log(response_array);
 }
